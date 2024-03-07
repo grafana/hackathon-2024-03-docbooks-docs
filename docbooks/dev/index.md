@@ -8,6 +8,8 @@
 
 ### Steps
 
+![test-img](../img/test-img.png)
+
 1. **Open IntelliJ IDEA**
 2. **Create a new project** by going to `File > New > Project`. Alternatively, **open an existing project**.
 3. **Open Terminal** in IntelliJ IDEA. You can do this by going to `View > Tool Windows > Terminal`.
